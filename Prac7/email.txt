@@ -1,0 +1,14 @@
+MIME-Version: 1.0
+Bcc: quintin@milk.com
+
+Subject: [BCC Warning] Example Email with BCC Recipients
+Content-Type: text/plain
+
+Dear Recipients,
+
+This is a sample email sent to multiple recipients. You are receiving it as a primary recipient.
+
+Please note that there are also BCC recipients who will receive this email without being visible to you or other primary recipients.
+
+Best regards,
+Sender

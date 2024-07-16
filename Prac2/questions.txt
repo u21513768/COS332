@@ -1,0 +1,28 @@
+?The successor of IPv4 is:
+-TCP
+-Ethernet
+-IPv5
++IPv6
+
+?DNS normally uses the following transport layer protocol
+-TCP
++UDP
+-IEEE 802.3
+-All of the above
+
+?Which of the following are programming languages?
+-Boa
++Python
++Java
++C++
++Javascript
++HTML
+-English
+
+?Which of the following are esolangs?
+-Python
+-Java
+-C++
+-Javascript
+-HTML
+
